@@ -1,1 +1,1 @@
-# Repositório utilizado para testar as linhas de comando do terminal
+Repositório utilizado para testar as linhas de comando do terminal
