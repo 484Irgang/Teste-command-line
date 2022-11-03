@@ -7,6 +7,14 @@ defineProps({
 <template>
   <h1>{{ msg }}</h1>
   <p>Testo qualquer só para fazer um teste de commit</p>
+  <h1>{{ msg }}</h1>
+  <p>Testo qualquer só para fazer um teste de commit</p>
+  <h1>{{ msg }}</h1>
+  <p>Testo qualquer só para fazer um teste de commit</p>
+  <h1>{{ msg }}</h1>
+  <p>Testo qualquer só para fazer um teste de commit</p>
+  <h1>{{ msg }}</h1>
+  <p>Testo qualquer só para fazer um teste de commit</p>
 </template>
 
 <style scoped>
